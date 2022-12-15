@@ -4,6 +4,8 @@ import './categories.styles.scss'
 
 function App() {
 
+  //the commit..
+
   const categories = [
    { 
     title: "Hats",
