@@ -5,6 +5,7 @@ import './categories.styles.scss'
 function App() {
 
   //the commit..
+  //the commit baby....
 
   const categories = [
    { 
