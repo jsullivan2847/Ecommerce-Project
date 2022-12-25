@@ -6,6 +6,7 @@ function App() {
 
   //the commit..
   //the commit baby....
+  //once again the commit...
 
   const categories = [
    { 
